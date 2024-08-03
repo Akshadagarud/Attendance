@@ -17,8 +17,11 @@ else:
 
     st.write("### Attendance Data for the Selected Date Range", date_filtered_df)
 
-    engineer = st.selectbox("Select Engineer name", date_filtered_df["Name"].unique())
-    filtered_df = date_filtered_df[date_filtered_df["Name"] == engineer]
+    engineer_options = ["None"] + list(date_filtered_df["Name"].unique())
+    engineer = st.selectbox("Select Engineer name", engineer_options, index=0)
+
+    if engineer != "None":
+        filtered_df = date_filtered_df[date_filtered_df["Name"] == engineer]
 
     st.write(f"### Attendance Data for {engineer}", filtered_df)
 
