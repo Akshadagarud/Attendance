@@ -1,0 +1,301 @@
+Engineer ID,Name,Date,Day,Status,Login Time,Logout Time,Work Hours,Remarks
+1,Engineer_1,2024-07-04,Thursday,Present,07:00:00,18:00:00,11,
+2,Engineer_2,2024-07-04,Thursday,Present,10:00:00,19:00:00,9,Attended a meeting
+3,Engineer_3,2024-07-04,Thursday,Absent,,,0,On leave
+4,Engineer_4,2024-07-04,Thursday,Absent,,,0,On leave
+5,Engineer_5,2024-07-04,Thursday,Absent,,,0,On leave
+6,Engineer_6,2024-07-04,Thursday,Present,07:00:00,16:00:00,9,Worked remotely
+7,Engineer_7,2024-07-04,Thursday,Present,09:00:00,16:00:00,7,Worked remotely
+8,Engineer_8,2024-07-04,Thursday,Absent,,,0,On leave
+9,Engineer_9,2024-07-04,Thursday,Present,10:00:00,17:00:00,7,Attended a meeting
+10,Engineer_10,2024-07-04,Thursday,Absent,,,0,On leave
+1,Engineer_1,2024-07-05,Friday,Present,09:00:00,19:00:00,10,Worked remotely
+2,Engineer_2,2024-07-05,Friday,Present,10:00:00,19:00:00,9,Attended a meeting
+3,Engineer_3,2024-07-05,Friday,Present,07:00:00,19:00:00,12,Worked remotely
+4,Engineer_4,2024-07-05,Friday,Present,08:00:00,16:00:00,8,
+5,Engineer_5,2024-07-05,Friday,Present,07:00:00,16:00:00,9,Worked remotely
+6,Engineer_6,2024-07-05,Friday,Absent,,,0,On leave
+7,Engineer_7,2024-07-05,Friday,Absent,,,0,On leave
+8,Engineer_8,2024-07-05,Friday,Present,08:00:00,17:00:00,9,
+9,Engineer_9,2024-07-05,Friday,Present,09:00:00,18:00:00,9,Attended a meeting
+10,Engineer_10,2024-07-05,Friday,Absent,,,0,On leave
+1,Engineer_1,2024-07-06,Saturday,Absent,,,0,On leave
+2,Engineer_2,2024-07-06,Saturday,Absent,,,0,On leave
+3,Engineer_3,2024-07-06,Saturday,Absent,,,0,On leave
+4,Engineer_4,2024-07-06,Saturday,Absent,,,0,On leave
+5,Engineer_5,2024-07-06,Saturday,Absent,,,0,On leave
+6,Engineer_6,2024-07-06,Saturday,Present,10:00:00,17:00:00,7,Worked remotely
+7,Engineer_7,2024-07-06,Saturday,Present,08:00:00,18:00:00,10,Attended a meeting
+8,Engineer_8,2024-07-06,Saturday,Absent,,,0,On leave
+9,Engineer_9,2024-07-06,Saturday,Present,10:00:00,17:00:00,7,
+10,Engineer_10,2024-07-06,Saturday,Absent,,,0,On leave
+1,Engineer_1,2024-07-07,Sunday,Present,08:00:00,16:00:00,8,Attended a meeting
+2,Engineer_2,2024-07-07,Sunday,Present,07:00:00,19:00:00,12,
+3,Engineer_3,2024-07-07,Sunday,Present,09:00:00,16:00:00,7,
+4,Engineer_4,2024-07-07,Sunday,Absent,,,0,On leave
+5,Engineer_5,2024-07-07,Sunday,Present,10:00:00,17:00:00,7,Attended a meeting
+6,Engineer_6,2024-07-07,Sunday,Present,08:00:00,17:00:00,9,
+7,Engineer_7,2024-07-07,Sunday,Absent,,,0,On leave
+8,Engineer_8,2024-07-07,Sunday,Present,10:00:00,19:00:00,9,Worked remotely
+9,Engineer_9,2024-07-07,Sunday,Present,10:00:00,16:00:00,6,Worked remotely
+10,Engineer_10,2024-07-07,Sunday,Absent,,,0,On leave
+1,Engineer_1,2024-07-08,Monday,Absent,,,0,On leave
+2,Engineer_2,2024-07-08,Monday,Present,09:00:00,17:00:00,8,
+3,Engineer_3,2024-07-08,Monday,Absent,,,0,On leave
+4,Engineer_4,2024-07-08,Monday,Absent,,,0,On leave
+5,Engineer_5,2024-07-08,Monday,Absent,,,0,On leave
+6,Engineer_6,2024-07-08,Monday,Present,08:00:00,18:00:00,10,
+7,Engineer_7,2024-07-08,Monday,Present,08:00:00,17:00:00,9,Attended a meeting
+8,Engineer_8,2024-07-08,Monday,Present,09:00:00,16:00:00,7,Attended a meeting
+9,Engineer_9,2024-07-08,Monday,Present,10:00:00,16:00:00,6,
+10,Engineer_10,2024-07-08,Monday,Absent,,,0,On leave
+1,Engineer_1,2024-07-09,Tuesday,Present,09:00:00,16:00:00,7,Worked remotely
+2,Engineer_2,2024-07-09,Tuesday,Absent,,,0,On leave
+3,Engineer_3,2024-07-09,Tuesday,Present,08:00:00,17:00:00,9,
+4,Engineer_4,2024-07-09,Tuesday,Absent,,,0,On leave
+5,Engineer_5,2024-07-09,Tuesday,Present,08:00:00,17:00:00,9,Attended a meeting
+6,Engineer_6,2024-07-09,Tuesday,Present,08:00:00,19:00:00,11,
+7,Engineer_7,2024-07-09,Tuesday,Absent,,,0,On leave
+8,Engineer_8,2024-07-09,Tuesday,Present,09:00:00,17:00:00,8,Worked remotely
+9,Engineer_9,2024-07-09,Tuesday,Present,10:00:00,19:00:00,9,Attended a meeting
+10,Engineer_10,2024-07-09,Tuesday,Present,08:00:00,17:00:00,9,
+1,Engineer_1,2024-07-10,Wednesday,Present,10:00:00,19:00:00,9,Worked remotely
+2,Engineer_2,2024-07-10,Wednesday,Present,08:00:00,18:00:00,10,Worked remotely
+3,Engineer_3,2024-07-10,Wednesday,Present,10:00:00,18:00:00,8,
+4,Engineer_4,2024-07-10,Wednesday,Present,08:00:00,18:00:00,10,Attended a meeting
+5,Engineer_5,2024-07-10,Wednesday,Absent,,,0,On leave
+6,Engineer_6,2024-07-10,Wednesday,Present,10:00:00,16:00:00,6,Attended a meeting
+7,Engineer_7,2024-07-10,Wednesday,Present,09:00:00,18:00:00,9,Attended a meeting
+8,Engineer_8,2024-07-10,Wednesday,Absent,,,0,On leave
+9,Engineer_9,2024-07-10,Wednesday,Present,07:00:00,17:00:00,10,
+10,Engineer_10,2024-07-10,Wednesday,Absent,,,0,On leave
+1,Engineer_1,2024-07-11,Thursday,Absent,,,0,On leave
+2,Engineer_2,2024-07-11,Thursday,Absent,,,0,On leave
+3,Engineer_3,2024-07-11,Thursday,Present,08:00:00,18:00:00,10,Worked remotely
+4,Engineer_4,2024-07-11,Thursday,Present,07:00:00,16:00:00,9,Attended a meeting
+5,Engineer_5,2024-07-11,Thursday,Present,10:00:00,18:00:00,8,Worked remotely
+6,Engineer_6,2024-07-11,Thursday,Present,09:00:00,17:00:00,8,Attended a meeting
+7,Engineer_7,2024-07-11,Thursday,Present,09:00:00,17:00:00,8,Worked remotely
+8,Engineer_8,2024-07-11,Thursday,Present,10:00:00,19:00:00,9,Attended a meeting
+9,Engineer_9,2024-07-11,Thursday,Absent,,,0,On leave
+10,Engineer_10,2024-07-11,Thursday,Absent,,,0,On leave
+1,Engineer_1,2024-07-12,Friday,Present,07:00:00,16:00:00,9,Worked remotely
+2,Engineer_2,2024-07-12,Friday,Absent,,,0,On leave
+3,Engineer_3,2024-07-12,Friday,Absent,,,0,On leave
+4,Engineer_4,2024-07-12,Friday,Present,08:00:00,18:00:00,10,Worked remotely
+5,Engineer_5,2024-07-12,Friday,Present,10:00:00,19:00:00,9,Attended a meeting
+6,Engineer_6,2024-07-12,Friday,Absent,,,0,On leave
+7,Engineer_7,2024-07-12,Friday,Present,07:00:00,17:00:00,10,Attended a meeting
+8,Engineer_8,2024-07-12,Friday,Present,09:00:00,17:00:00,8,Worked remotely
+9,Engineer_9,2024-07-12,Friday,Absent,,,0,On leave
+10,Engineer_10,2024-07-12,Friday,Present,08:00:00,18:00:00,10,Worked remotely
+1,Engineer_1,2024-07-13,Saturday,Present,09:00:00,18:00:00,9,Worked remotely
+2,Engineer_2,2024-07-13,Saturday,Present,09:00:00,16:00:00,7,Attended a meeting
+3,Engineer_3,2024-07-13,Saturday,Absent,,,0,On leave
+4,Engineer_4,2024-07-13,Saturday,Absent,,,0,On leave
+5,Engineer_5,2024-07-13,Saturday,Absent,,,0,On leave
+6,Engineer_6,2024-07-13,Saturday,Absent,,,0,On leave
+7,Engineer_7,2024-07-13,Saturday,Present,08:00:00,16:00:00,8,
+8,Engineer_8,2024-07-13,Saturday,Absent,,,0,On leave
+9,Engineer_9,2024-07-13,Saturday,Absent,,,0,On leave
+10,Engineer_10,2024-07-13,Saturday,Absent,,,0,On leave
+1,Engineer_1,2024-07-14,Sunday,Present,09:00:00,16:00:00,7,
+2,Engineer_2,2024-07-14,Sunday,Absent,,,0,On leave
+3,Engineer_3,2024-07-14,Sunday,Absent,,,0,On leave
+4,Engineer_4,2024-07-14,Sunday,Present,08:00:00,16:00:00,8,
+5,Engineer_5,2024-07-14,Sunday,Absent,,,0,On leave
+6,Engineer_6,2024-07-14,Sunday,Present,07:00:00,17:00:00,10,
+7,Engineer_7,2024-07-14,Sunday,Absent,,,0,On leave
+8,Engineer_8,2024-07-14,Sunday,Present,09:00:00,18:00:00,9,Attended a meeting
+9,Engineer_9,2024-07-14,Sunday,Present,07:00:00,19:00:00,12,Worked remotely
+10,Engineer_10,2024-07-14,Sunday,Absent,,,0,On leave
+1,Engineer_1,2024-07-15,Monday,Absent,,,0,On leave
+2,Engineer_2,2024-07-15,Monday,Present,07:00:00,17:00:00,10,Attended a meeting
+3,Engineer_3,2024-07-15,Monday,Present,10:00:00,17:00:00,7,
+4,Engineer_4,2024-07-15,Monday,Absent,,,0,On leave
+5,Engineer_5,2024-07-15,Monday,Present,09:00:00,18:00:00,9,
+6,Engineer_6,2024-07-15,Monday,Present,09:00:00,17:00:00,8,Attended a meeting
+7,Engineer_7,2024-07-15,Monday,Present,10:00:00,16:00:00,6,Worked remotely
+8,Engineer_8,2024-07-15,Monday,Present,08:00:00,19:00:00,11,
+9,Engineer_9,2024-07-15,Monday,Present,10:00:00,19:00:00,9,Worked remotely
+10,Engineer_10,2024-07-15,Monday,Absent,,,0,On leave
+1,Engineer_1,2024-07-16,Tuesday,Present,08:00:00,17:00:00,9,Attended a meeting
+2,Engineer_2,2024-07-16,Tuesday,Absent,,,0,On leave
+3,Engineer_3,2024-07-16,Tuesday,Absent,,,0,On leave
+4,Engineer_4,2024-07-16,Tuesday,Present,10:00:00,16:00:00,6,Worked remotely
+5,Engineer_5,2024-07-16,Tuesday,Absent,,,0,On leave
+6,Engineer_6,2024-07-16,Tuesday,Absent,,,0,On leave
+7,Engineer_7,2024-07-16,Tuesday,Absent,,,0,On leave
+8,Engineer_8,2024-07-16,Tuesday,Absent,,,0,On leave
+9,Engineer_9,2024-07-16,Tuesday,Present,10:00:00,18:00:00,8,Attended a meeting
+10,Engineer_10,2024-07-16,Tuesday,Absent,,,0,On leave
+1,Engineer_1,2024-07-17,Wednesday,Present,08:00:00,18:00:00,10,Worked remotely
+2,Engineer_2,2024-07-17,Wednesday,Present,07:00:00,16:00:00,9,Worked remotely
+3,Engineer_3,2024-07-17,Wednesday,Present,08:00:00,16:00:00,8,Attended a meeting
+4,Engineer_4,2024-07-17,Wednesday,Absent,,,0,On leave
+5,Engineer_5,2024-07-17,Wednesday,Present,10:00:00,17:00:00,7,Worked remotely
+6,Engineer_6,2024-07-17,Wednesday,Absent,,,0,On leave
+7,Engineer_7,2024-07-17,Wednesday,Absent,,,0,On leave
+8,Engineer_8,2024-07-17,Wednesday,Absent,,,0,On leave
+9,Engineer_9,2024-07-17,Wednesday,Absent,,,0,On leave
+10,Engineer_10,2024-07-17,Wednesday,Present,09:00:00,17:00:00,8,Attended a meeting
+1,Engineer_1,2024-07-18,Thursday,Present,07:00:00,19:00:00,12,Attended a meeting
+2,Engineer_2,2024-07-18,Thursday,Present,10:00:00,18:00:00,8,Attended a meeting
+3,Engineer_3,2024-07-18,Thursday,Present,08:00:00,18:00:00,10,
+4,Engineer_4,2024-07-18,Thursday,Present,08:00:00,16:00:00,8,
+5,Engineer_5,2024-07-18,Thursday,Absent,,,0,On leave
+6,Engineer_6,2024-07-18,Thursday,Absent,,,0,On leave
+7,Engineer_7,2024-07-18,Thursday,Present,08:00:00,17:00:00,9,Attended a meeting
+8,Engineer_8,2024-07-18,Thursday,Present,10:00:00,18:00:00,8,Worked remotely
+9,Engineer_9,2024-07-18,Thursday,Absent,,,0,On leave
+10,Engineer_10,2024-07-18,Thursday,Absent,,,0,On leave
+1,Engineer_1,2024-07-19,Friday,Present,10:00:00,19:00:00,9,
+2,Engineer_2,2024-07-19,Friday,Present,09:00:00,18:00:00,9,Worked remotely
+3,Engineer_3,2024-07-19,Friday,Present,09:00:00,16:00:00,7,Attended a meeting
+4,Engineer_4,2024-07-19,Friday,Present,10:00:00,17:00:00,7,Worked remotely
+5,Engineer_5,2024-07-19,Friday,Present,07:00:00,17:00:00,10,
+6,Engineer_6,2024-07-19,Friday,Absent,,,0,On leave
+7,Engineer_7,2024-07-19,Friday,Absent,,,0,On leave
+8,Engineer_8,2024-07-19,Friday,Absent,,,0,On leave
+9,Engineer_9,2024-07-19,Friday,Present,09:00:00,17:00:00,8,
+10,Engineer_10,2024-07-19,Friday,Absent,,,0,On leave
+1,Engineer_1,2024-07-20,Saturday,Present,10:00:00,17:00:00,7,
+2,Engineer_2,2024-07-20,Saturday,Absent,,,0,On leave
+3,Engineer_3,2024-07-20,Saturday,Absent,,,0,On leave
+4,Engineer_4,2024-07-20,Saturday,Present,09:00:00,18:00:00,9,
+5,Engineer_5,2024-07-20,Saturday,Absent,,,0,On leave
+6,Engineer_6,2024-07-20,Saturday,Present,09:00:00,17:00:00,8,Worked remotely
+7,Engineer_7,2024-07-20,Saturday,Present,09:00:00,18:00:00,9,Worked remotely
+8,Engineer_8,2024-07-20,Saturday,Absent,,,0,On leave
+9,Engineer_9,2024-07-20,Saturday,Present,10:00:00,16:00:00,6,
+10,Engineer_10,2024-07-20,Saturday,Present,08:00:00,18:00:00,10,
+1,Engineer_1,2024-07-21,Sunday,Absent,,,0,On leave
+2,Engineer_2,2024-07-21,Sunday,Absent,,,0,On leave
+3,Engineer_3,2024-07-21,Sunday,Absent,,,0,On leave
+4,Engineer_4,2024-07-21,Sunday,Present,07:00:00,18:00:00,11,Worked remotely
+5,Engineer_5,2024-07-21,Sunday,Present,08:00:00,18:00:00,10,Worked remotely
+6,Engineer_6,2024-07-21,Sunday,Absent,,,0,On leave
+7,Engineer_7,2024-07-21,Sunday,Present,10:00:00,18:00:00,8,
+8,Engineer_8,2024-07-21,Sunday,Present,10:00:00,17:00:00,7,
+9,Engineer_9,2024-07-21,Sunday,Present,07:00:00,16:00:00,9,
+10,Engineer_10,2024-07-21,Sunday,Absent,,,0,On leave
+1,Engineer_1,2024-07-22,Monday,Present,09:00:00,19:00:00,10,Worked remotely
+2,Engineer_2,2024-07-22,Monday,Present,07:00:00,16:00:00,9,
+3,Engineer_3,2024-07-22,Monday,Absent,,,0,On leave
+4,Engineer_4,2024-07-22,Monday,Present,08:00:00,19:00:00,11,Worked remotely
+5,Engineer_5,2024-07-22,Monday,Present,09:00:00,19:00:00,10,Attended a meeting
+6,Engineer_6,2024-07-22,Monday,Present,09:00:00,19:00:00,10,Worked remotely
+7,Engineer_7,2024-07-22,Monday,Present,10:00:00,19:00:00,9,Attended a meeting
+8,Engineer_8,2024-07-22,Monday,Absent,,,0,On leave
+9,Engineer_9,2024-07-22,Monday,Present,10:00:00,16:00:00,6,Worked remotely
+10,Engineer_10,2024-07-22,Monday,Present,09:00:00,18:00:00,9,
+1,Engineer_1,2024-07-23,Tuesday,Present,09:00:00,18:00:00,9,Attended a meeting
+2,Engineer_2,2024-07-23,Tuesday,Present,10:00:00,16:00:00,6,
+3,Engineer_3,2024-07-23,Tuesday,Absent,,,0,On leave
+4,Engineer_4,2024-07-23,Tuesday,Present,10:00:00,19:00:00,9,Attended a meeting
+5,Engineer_5,2024-07-23,Tuesday,Absent,,,0,On leave
+6,Engineer_6,2024-07-23,Tuesday,Absent,,,0,On leave
+7,Engineer_7,2024-07-23,Tuesday,Present,09:00:00,16:00:00,7,Worked remotely
+8,Engineer_8,2024-07-23,Tuesday,Present,07:00:00,16:00:00,9,
+9,Engineer_9,2024-07-23,Tuesday,Absent,,,0,On leave
+10,Engineer_10,2024-07-23,Tuesday,Absent,,,0,On leave
+1,Engineer_1,2024-07-24,Wednesday,Present,08:00:00,18:00:00,10,Worked remotely
+2,Engineer_2,2024-07-24,Wednesday,Absent,,,0,On leave
+3,Engineer_3,2024-07-24,Wednesday,Present,08:00:00,16:00:00,8,
+4,Engineer_4,2024-07-24,Wednesday,Absent,,,0,On leave
+5,Engineer_5,2024-07-24,Wednesday,Present,10:00:00,18:00:00,8,Worked remotely
+6,Engineer_6,2024-07-24,Wednesday,Present,09:00:00,17:00:00,8,Attended a meeting
+7,Engineer_7,2024-07-24,Wednesday,Absent,,,0,On leave
+8,Engineer_8,2024-07-24,Wednesday,Absent,,,0,On leave
+9,Engineer_9,2024-07-24,Wednesday,Present,09:00:00,19:00:00,10,Attended a meeting
+10,Engineer_10,2024-07-24,Wednesday,Absent,,,0,On leave
+1,Engineer_1,2024-07-25,Thursday,Present,08:00:00,18:00:00,10,Attended a meeting
+2,Engineer_2,2024-07-25,Thursday,Present,08:00:00,16:00:00,8,Worked remotely
+3,Engineer_3,2024-07-25,Thursday,Absent,,,0,On leave
+4,Engineer_4,2024-07-25,Thursday,Absent,,,0,On leave
+5,Engineer_5,2024-07-25,Thursday,Present,10:00:00,17:00:00,7,
+6,Engineer_6,2024-07-25,Thursday,Absent,,,0,On leave
+7,Engineer_7,2024-07-25,Thursday,Present,08:00:00,18:00:00,10,Attended a meeting
+8,Engineer_8,2024-07-25,Thursday,Absent,,,0,On leave
+9,Engineer_9,2024-07-25,Thursday,Absent,,,0,On leave
+10,Engineer_10,2024-07-25,Thursday,Present,08:00:00,19:00:00,11,Worked remotely
+1,Engineer_1,2024-07-26,Friday,Present,07:00:00,16:00:00,9,Attended a meeting
+2,Engineer_2,2024-07-26,Friday,Absent,,,0,On leave
+3,Engineer_3,2024-07-26,Friday,Present,10:00:00,18:00:00,8,Worked remotely
+4,Engineer_4,2024-07-26,Friday,Absent,,,0,On leave
+5,Engineer_5,2024-07-26,Friday,Absent,,,0,On leave
+6,Engineer_6,2024-07-26,Friday,Present,09:00:00,18:00:00,9,Worked remotely
+7,Engineer_7,2024-07-26,Friday,Absent,,,0,On leave
+8,Engineer_8,2024-07-26,Friday,Present,09:00:00,18:00:00,9,Worked remotely
+9,Engineer_9,2024-07-26,Friday,Absent,,,0,On leave
+10,Engineer_10,2024-07-26,Friday,Absent,,,0,On leave
+1,Engineer_1,2024-07-27,Saturday,Present,10:00:00,19:00:00,9,Attended a meeting
+2,Engineer_2,2024-07-27,Saturday,Present,08:00:00,16:00:00,8,
+3,Engineer_3,2024-07-27,Saturday,Absent,,,0,On leave
+4,Engineer_4,2024-07-27,Saturday,Absent,,,0,On leave
+5,Engineer_5,2024-07-27,Saturday,Absent,,,0,On leave
+6,Engineer_6,2024-07-27,Saturday,Present,08:00:00,19:00:00,11,Worked remotely
+7,Engineer_7,2024-07-27,Saturday,Present,10:00:00,17:00:00,7,Worked remotely
+8,Engineer_8,2024-07-27,Saturday,Present,07:00:00,17:00:00,10,Attended a meeting
+9,Engineer_9,2024-07-27,Saturday,Present,09:00:00,19:00:00,10,Attended a meeting
+10,Engineer_10,2024-07-27,Saturday,Present,09:00:00,17:00:00,8,Attended a meeting
+1,Engineer_1,2024-07-28,Sunday,Present,07:00:00,19:00:00,12,Worked remotely
+2,Engineer_2,2024-07-28,Sunday,Present,08:00:00,19:00:00,11,Worked remotely
+3,Engineer_3,2024-07-28,Sunday,Absent,,,0,On leave
+4,Engineer_4,2024-07-28,Sunday,Present,10:00:00,16:00:00,6,Attended a meeting
+5,Engineer_5,2024-07-28,Sunday,Present,08:00:00,18:00:00,10,Attended a meeting
+6,Engineer_6,2024-07-28,Sunday,Absent,,,0,On leave
+7,Engineer_7,2024-07-28,Sunday,Present,08:00:00,17:00:00,9,
+8,Engineer_8,2024-07-28,Sunday,Absent,,,0,On leave
+9,Engineer_9,2024-07-28,Sunday,Present,09:00:00,18:00:00,9,Attended a meeting
+10,Engineer_10,2024-07-28,Sunday,Present,08:00:00,18:00:00,10,Attended a meeting
+1,Engineer_1,2024-07-29,Monday,Present,07:00:00,17:00:00,10,Worked remotely
+2,Engineer_2,2024-07-29,Monday,Absent,,,0,On leave
+3,Engineer_3,2024-07-29,Monday,Absent,,,0,On leave
+4,Engineer_4,2024-07-29,Monday,Absent,,,0,On leave
+5,Engineer_5,2024-07-29,Monday,Present,08:00:00,19:00:00,11,
+6,Engineer_6,2024-07-29,Monday,Present,09:00:00,18:00:00,9,Worked remotely
+7,Engineer_7,2024-07-29,Monday,Present,10:00:00,16:00:00,6,
+8,Engineer_8,2024-07-29,Monday,Present,08:00:00,18:00:00,10,Worked remotely
+9,Engineer_9,2024-07-29,Monday,Absent,,,0,On leave
+10,Engineer_10,2024-07-29,Monday,Absent,,,0,On leave
+1,Engineer_1,2024-07-30,Tuesday,Present,09:00:00,17:00:00,8,Attended a meeting
+2,Engineer_2,2024-07-30,Tuesday,Present,07:00:00,17:00:00,10,Attended a meeting
+3,Engineer_3,2024-07-30,Tuesday,Absent,,,0,On leave
+4,Engineer_4,2024-07-30,Tuesday,Absent,,,0,On leave
+5,Engineer_5,2024-07-30,Tuesday,Absent,,,0,On leave
+6,Engineer_6,2024-07-30,Tuesday,Present,10:00:00,18:00:00,8,
+7,Engineer_7,2024-07-30,Tuesday,Present,08:00:00,18:00:00,10,
+8,Engineer_8,2024-07-30,Tuesday,Present,09:00:00,16:00:00,7,Worked remotely
+9,Engineer_9,2024-07-30,Tuesday,Present,07:00:00,16:00:00,9,Attended a meeting
+10,Engineer_10,2024-07-30,Tuesday,Absent,,,0,On leave
+1,Engineer_1,2024-07-31,Wednesday,Present,09:00:00,18:00:00,9,Worked remotely
+2,Engineer_2,2024-07-31,Wednesday,Present,10:00:00,17:00:00,7,Attended a meeting
+3,Engineer_3,2024-07-31,Wednesday,Absent,,,0,On leave
+4,Engineer_4,2024-07-31,Wednesday,Present,10:00:00,19:00:00,9,Worked remotely
+5,Engineer_5,2024-07-31,Wednesday,Absent,,,0,On leave
+6,Engineer_6,2024-07-31,Wednesday,Absent,,,0,On leave
+7,Engineer_7,2024-07-31,Wednesday,Absent,,,0,On leave
+8,Engineer_8,2024-07-31,Wednesday,Absent,,,0,On leave
+9,Engineer_9,2024-07-31,Wednesday,Present,09:00:00,16:00:00,7,Attended a meeting
+10,Engineer_10,2024-07-31,Wednesday,Present,10:00:00,18:00:00,8,Attended a meeting
+1,Engineer_1,2024-08-01,Thursday,Absent,,,0,On leave
+2,Engineer_2,2024-08-01,Thursday,Present,08:00:00,19:00:00,11,Attended a meeting
+3,Engineer_3,2024-08-01,Thursday,Absent,,,0,On leave
+4,Engineer_4,2024-08-01,Thursday,Absent,,,0,On leave
+5,Engineer_5,2024-08-01,Thursday,Absent,,,0,On leave
+6,Engineer_6,2024-08-01,Thursday,Absent,,,0,On leave
+7,Engineer_7,2024-08-01,Thursday,Present,07:00:00,19:00:00,12,Worked remotely
+8,Engineer_8,2024-08-01,Thursday,Absent,,,0,On leave
+9,Engineer_9,2024-08-01,Thursday,Present,07:00:00,18:00:00,11,Attended a meeting
+10,Engineer_10,2024-08-01,Thursday,Present,10:00:00,18:00:00,8,Worked remotely
+1,Engineer_1,2024-08-02,Friday,Present,09:00:00,19:00:00,10,
+2,Engineer_2,2024-08-02,Friday,Present,08:00:00,17:00:00,9,Worked remotely
+3,Engineer_3,2024-08-02,Friday,Absent,,,0,On leave
+4,Engineer_4,2024-08-02,Friday,Present,10:00:00,16:00:00,6,Attended a meeting
+5,Engineer_5,2024-08-02,Friday,Absent,,,0,On leave
+6,Engineer_6,2024-08-02,Friday,Present,10:00:00,18:00:00,8,
+7,Engineer_7,2024-08-02,Friday,Absent,,,0,On leave
+8,Engineer_8,2024-08-02,Friday,Absent,,,0,On leave
+9,Engineer_9,2024-08-02,Friday,Present,08:00:00,19:00:00,11,Attended a meeting
+10,Engineer_10,2024-08-02,Friday,Absent,,,0,On leave
